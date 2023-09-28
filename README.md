@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Algoryihms and Data Structures</b>
+- <b>Algorithms and Data Structures</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshcybertest/Cloud-SOC)
 
 <b> Computers and Programming I,II</b>
