@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Projects</b>
+- <b>Algoryihms and Data Structures</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshcybertest/Cloud-SOC)
- 
+
+<b> Computers and Programming I,II</b>
+
   - <h2>📜 Certifications </h2>
   c1
   c2
