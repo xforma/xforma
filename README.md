@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - <b>[Algorithms and Data Structures](https://github.com/xforma/Data-Structures-and-Algorithms)</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshcybertest/Cloud-SOC)
 
-<b> Computers and Programming I </b>
-<b> Computers and Programming II </b>
-<b> Multimedia Services </b>
+- <b> Computers and Programming I </b>
+- <b> Computers and Programming II </b>
+-   <b> Multimedia Services </b>
 
   - <h2>📜 Certifications </h2>
   c1
