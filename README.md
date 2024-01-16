@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <b> Computers and Programming I </b>
 <b> Computers and Programming II </b>
+<b> Multimedia Services </b>
 
   - <h2>📜 Certifications </h2>
   c1
