@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I am Juraj!</h1>
+<h1>Hi, I am Juraj!</h1> This is the showcase of my skills that I obtained during my studies and my free time.
 
 <h2>👨‍💻 My Projects:</h2>
 
