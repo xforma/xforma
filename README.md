@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - <b> [Computers and Programming II](https://github.com/xforma/Computers-and-Programming-II) </b>
 - <b> [Multimedia Services](https://github.com/xforma/Multimedia-Services) </b>
 
-  - <h2>📜 Certifications </h2>
+ <h2>📜 Certifications </h2>
   c1
   c2
   c3
