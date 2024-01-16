@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>[Algorithms and Data Structures](https://github.com/xforma/Data-Structures-and-Algorithms)</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshcybertest/Cloud-SOC)
-
 - <b> [Computers and Programming I](https://github.com/xforma/Computers-and-Programming-I) </b>
 - <b> [Computers and Programming II](https://github.com/xforma/Computers-and-Programming-II) </b>
 - <b> [Multimedia Services](https://github.com/xforma/Multimedia-Services) </b>
