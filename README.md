@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Algorithms and Data Structures</b>
+- <b>[Algorithms and Data Structures](https://github.com/xforma/Data-Structures-and-Algorithms)</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshcybertest/Cloud-SOC)
 
-<b> Computers and Programming I,II</b>
+<b> Computers and Programming I </b>
+<b> Computers and Programming II </b>
 
   - <h2>📜 Certifications </h2>
   c1
   c2
   c3
-
+  c4
